@@ -1,26 +1,29 @@
-
-
+html {
+    box-sizing: border-box;
+}
+ 
 body {
     height: 1600px;
     width: 500px;
-    display:inline-block;
+    
     
 }
 
 .traveler {
     width: 350px;
     height: 290px;
-    margin: 60px 74px 40px 75px;
+    margin: 60px 74px 40px 75px;  
 }
 
-.hlavicka {
-    
+.uvod {
+    display: flex;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
-.obsah1 {
-    
-}
-
-.obsah2 {
-    
+.seznam {
+    list-style: none;
+    padding: 0;
 }
