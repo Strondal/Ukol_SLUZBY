@@ -5,6 +5,7 @@ html {
 body {
     height: 1600px;
     width: 500px;
+    font-family: 'montserrat';
 }
 
 .traveler {
@@ -14,8 +15,10 @@ body {
 }
 
 .nadpis {
-margin: 0 153px 40px 153px;
-font-family: mo;
+margin: 0 145px 40px 145px;
+font-family: 'montserrat';
+font-weight: 700;
+font-size: 28px;
 }
 
 .uvod {
