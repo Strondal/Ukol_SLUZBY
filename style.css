@@ -45,6 +45,47 @@ font-size: 28px;
     margin: 10px 140px 0 140px;
  }
 
-.obsah1 {
+.obsah1,
+.obsah2{
     margin: 60px 20px 60px 20px;
+}
+
+.obdelnik {
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0, 0.3);
+    font-size: 13px;
+    color:#8B8B8B;
+}
+
+.mapa,
+.palma {
+    margin: 28px 20px 15px 20px;
+}
+
+.kaktus,
+.destnik {
+    margin: 15px 20px 15px 20px;
+}
+
+.letadlo,
+.karavan {
+    margin: 15px 20px 60px 20px;
+}
+
+img {
+    margin
+}
+
+
+
+
+/*seznam s odrážkama dole*/
+
+.seznam3 {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+
 }
