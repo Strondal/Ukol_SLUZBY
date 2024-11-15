@@ -99,10 +99,13 @@ font-size: 28px;
 .karavan {
     margin: 15px 20px 60px 20px;
 }
-
-img {
-    margin-right: 20px;
+.odstavec{
+    margin-left: 20px;
 }
+
+/*img {
+    margin-right: 20px;
+}*/
 
 
 
@@ -172,9 +175,15 @@ img {
 
     .nadpis2 {
         margin-top: 20px;
+        margin-bottom: 17px;
+    }
+    .nadpis3 {
+        margin-top: 0;
+        margin-bottom: 17px;
     }
 
-    .odstavec2 {
+    .odstavec2,
+    .odstavec3 {
         margin: 17px 110px 40px 110px;
         padding: 0;
     }
@@ -182,17 +191,38 @@ img {
     .seznam2,
     .seznam3 {
         display: flex;
+        margin:0;
+        height: 172px;
+    }
+
+    .mapa {
+        margin:0 20px 0px 20px;
+    }
+    .kaktus,
+    .letadlo {
+        margin:0 20px 0 0;
+    }
+    .palma {
+        margin:0 20px 0px 20px;
+    }
+    .destnik,
+    .karavan {
+        margin:0 20px 0 0;
     }
 
     .obdelnik {
-        padding:0;
+        padding:40px 15px 0px 20px;
         width: 230px;
-        height: 170px;
-        margin: 15px 15px 15px 15px;
+        height: 130px;
+        
         display: block;
     }
 
-    .img {
-        margin:40px 92px 92px 92px;
+    .odstavec {
+        margin: 20px 0 0 0;
     }
+    .obsah1,
+    .obsah2{
+    margin: 40px 0px 40px 0px;
+}
 }
