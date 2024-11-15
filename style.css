@@ -32,6 +32,18 @@ font-size: 28px;
     border-radius: 20px;
  }
 
+ .nadpis2,
+ .nadpis3 {
+    font-size: 16px;
+ }
+
+.odstavec1,
+.odstavec2,
+.odstavec3 {
+    color:#8B8B8B;
+    font-size: 16px;
+}
+
  .dobrodruzstvi {
     background-color: #407BFF;
     color: white;
