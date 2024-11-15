@@ -6,7 +6,7 @@ body {
     height: 1600px;
     width: 500px;
     font-family: 'montserrat';
-    border:2px solid #bfbdbd;
+    border:2px solid #d8d4d4;
 }
 
 .traveler {
@@ -27,6 +27,8 @@ font-size: 28px;
 .obsah2 {
     text-align: center;
 }
+
+
 .tlacitko {
     display: block;
     padding: 10px 0 10px 0;
@@ -108,4 +110,10 @@ img {
 }
 
 
-
+.carka {
+    background-color: #407BFF;
+    width: 60px;
+    height: 2px;
+    display:block;
+    margin: 0 220px 0 220px
+}
