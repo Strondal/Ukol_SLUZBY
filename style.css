@@ -179,12 +179,20 @@ img {
         padding: 0;
     }
 
-    .seznam2 {
+    .seznam2,
+    .seznam3 {
         display: flex;
     }
 
-    .imgmapa{
-        width: 45px;
-        height: 40px;
+    .obdelnik {
+        padding:0;
+        width: 230px;
+        height: 170px;
+        margin: 15px 15px 15px 15px;
+        display: block;
+    }
+
+    .img {
+        margin:40px 92px 92px 92px;
     }
 }
